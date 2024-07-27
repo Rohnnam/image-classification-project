@@ -47,4 +47,4 @@ Training the Model:
    python image_classification_project/evaluate_model.py
 
 3. Generate and save visualizations:
-   python image_classification_project/visualize_results.py ```
+   python image_classification_project/visualize_results.py   

@@ -36,10 +36,10 @@ Here is the training history graph showing the model's accuracy and loss over th
 2. python -m venv .venv<br>
    source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`  <br>  
 
-3. pip install -r requirements.txt```
+3. pip install -r requirements.txt
 
-## Training the Model
-```
+Training the Model:
+
 1. Run the training script:
    python image_classification_project/train_model.py
 
@@ -47,5 +47,4 @@ Here is the training history graph showing the model's accuracy and loss over th
    python image_classification_project/evaluate_model.py
 
 3. Generate and save visualizations:
-   python image_classification_project/visualize_results.py
-```
+   python image_classification_project/visualize_results.py```

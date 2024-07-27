@@ -16,3 +16,10 @@ This project is a simple image classification model built with TensorFlow and Ke
 - Python 3.10
 - TensorFlow
 - Keras
+
+
+## Training History
+
+Here is the training history graph showing the model's accuracy and loss over the epochs:
+
+![Training History](training_history.png)

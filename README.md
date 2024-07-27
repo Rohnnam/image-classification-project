@@ -30,11 +30,11 @@ Here is the training history graph showing the model's accuracy and loss over th
 ## Setup and Installation
 ```
 1. Clone the repository:<br>
-   git clone https://github.com/Rohnnam/image-classification-project.git <br>
-   cd your-repository/image_classification_project<br>
+   git clone https://github.com/Rohnnam/image-classification-project.git 
+   cd your-repository/image_classification_project
 
-2. python -m venv .venv<br>
-   source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`  <br>  
+2. python -m venv .venv
+   source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate` 
 
 3. pip install -r requirements.txt
 

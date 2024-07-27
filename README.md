@@ -31,7 +31,7 @@ Here is the training history graph showing the model's accuracy and loss over th
 ```
 1. Clone the repository:<br>
    git clone https://github.com/Rohnnam/image-classification-project.git 
-   cd your-repository/image_classification_project
+   cd image-classification-project/image_classification_project
 
 2. python -m venv .venv
    source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate` 

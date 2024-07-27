@@ -35,8 +35,8 @@ Here is the training history graph showing the model's accuracy and loss over th
    cd your-repository/image_classification_project<br>
 
 
-2.python -m venv .venv<br>
- source .venv/bin/activate<br>
-<br>
+2. python -m venv .venv<br>
+   source .venv/bin/activate<br>
 
-3.pip install -r requirements.txt
+
+3. pip install -r requirements.txt

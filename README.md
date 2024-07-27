@@ -11,7 +11,7 @@ This project demonstrates image classification using a Convolutional Neural Netw
 ├── train_model.py           # Code for training the model
 ├── evaluate_model.py        # Code for evaluating the model
 ├── visualize_results.py     # Code for visualizing results
-
+```
 ### Prerequisites
 
 - Python 3.10

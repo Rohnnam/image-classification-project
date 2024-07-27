@@ -4,12 +4,12 @@ This project is a simple image classification model built with TensorFlow and Ke
 
 ## Project Structure
 
-/image_classification_project/
-├── data_preparation.py # Code for loading and preparing data
-├── model.py # Code defining the CNN model
-├── train_model.py # Code for training the model
-├── evaluate_model.py # Code for evaluating the model
-├── visualize_results.py # Code for visualizing results
+/image_classification_project/ <br>
+├── data_preparation.py # Code for loading and preparing data  <br>
+├── model.py # Code defining the CNN model <br>
+├── train_model.py # Code for training the model <br>
+├── evaluate_model.py # Code for evaluating the model <br>
+├── visualize_results.py # Code for visualizing results <br>
 
 ### Prerequisites
 

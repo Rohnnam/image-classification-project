@@ -1,6 +1,6 @@
 # Image Classification Project
 
-This project is a simple image classification model built with TensorFlow and Keras, trained on the CIFAR-10 dataset.
+This project demonstrates image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset, Built with keras and TesorFlow.
 
 ## Project Structure
 

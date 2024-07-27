@@ -24,6 +24,7 @@ Here is the training history graph showing the model's accuracy and loss over th
 
 ![Training History](training_history.png)
 
+## Usage<br>
 
 ## Setup and Installation
 
@@ -36,8 +37,6 @@ Here is the training history graph showing the model's accuracy and loss over th
 
 3. pip install -r requirements.txt
 
-
-## Usage
 ## Training the Model
 
 1. Run the training script:
